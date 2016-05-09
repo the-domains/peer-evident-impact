@@ -1,0 +1,28 @@
+name: Peer-Evident Impact
+favicon: null
+layout_spectrum: 0.5921983937732875
+typography_spectrum: 0.48073364701122046
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6914635864086449
+  lightness: 0.012296693632379174
+  saturation: 0.6585919465869665
+  rhythmicContrast: 0.2836240299511701
+purpose: []
